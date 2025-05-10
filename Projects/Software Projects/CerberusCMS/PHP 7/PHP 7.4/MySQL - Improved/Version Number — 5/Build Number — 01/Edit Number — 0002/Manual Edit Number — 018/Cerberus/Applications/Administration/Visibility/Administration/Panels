@@ -630,7 +630,7 @@ $_Application_Module_Administration_Panels_DECREMENT_APPLICATION_PANEL_ROW			= $
  ============================================================================================================
 */
 
-$_Application_Module_Administration_Panels_DB_Query_UPDATE_APPLICATION_PANEL_DECREMENT_ROW	= $_GLOBAL_DATABASE_MANAGEMENT_SYSTEM_SERVER_DATABASE_CONNECTION->query("UPDATE {$_ACCESS_DATABASE_SERVER_DATABASE_TABLE_PREFIX}_applications_panel_visibility_member SET appliction_panel_row='$_Application_Module_Administration_Panels_DECREMENT_APPLICATION_PANEL_ROW' WHERE id='$_Application_Module_Administration_Panels_LIST_APPLICATION_PANEL_ID'");
+$_Application_Module_Administration_Panels_DB_Query_UPDATE_APPLICATION_PANEL_DECREMENT_ROW	= $_GLOBAL_DATABASE_MANAGEMENT_SYSTEM_SERVER_DATABASE_CONNECTION->query("UPDATE {$_ACCESS_DATABASE_SERVER_DATABASE_TABLE_PREFIX}_applications_panel_visibility_member SET application_panel_row='$_Application_Module_Administration_Panels_DECREMENT_APPLICATION_PANEL_ROW' WHERE id='$_Application_Module_Administration_Panels_LIST_APPLICATION_PANEL_ID'");
 
 /*
  ============================================================================================================
