@@ -181,39 +181,55 @@ if ($_GLOBAL_MEMBER_LEVEL_RANK = 5) {
 */
 
 echo ("
-<B>Registered Member Account :: Options :: Credentials and Authentication</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Update_Password&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Update Password ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Update_Password.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Credentials and Authentication</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Update_Password&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Update Password ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Update_Password.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
 
-<B>Registered Member Account :: Options :: Personal Data</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Account_Data&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Upload & Manage :: Private Files :: For This Registered Member Account ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Files.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Webspace&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Update :: This Registered Member Account :: Personal Hyper-Text-Markup-Language Web-Page Document ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Web_Page.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Archive&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Manage :: This Registered Member Account :: Data Archives ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Archive.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;DeleteAccount&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Delete :: This Registered Member Account ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Delete.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A><BR><BR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Personal Data</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Account_Data&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Upload & Manage :: Private Files :: For This Registered Member Account ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Files.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Webspace&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Update :: This Registered Member Account :: Personal Hyper-Text-Markup-Language Web-Page Document ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Web_Page.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Archive&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Manage :: This Registered Member Account :: Data Archives ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Archive.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;DeleteAccount&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Delete :: This Registered Member Account ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Delete.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
 
-<B>Registered Member Account :: Options :: Social Interaction</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Contacts&amp;Display&#61;All&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Contact List and Options ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Contacts.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Friend&amp;Display&#61;All&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Friend List and Options ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Friends.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A><BR><BR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Social Interaction</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Contacts&amp;Display&#61;All&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Contact List and Options ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Contacts.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Friend&amp;Display&#61;All&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Friend List and Options ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Friends.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
 
-<B>Registered Member Account :: Options :: Location</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;LogGPS_Automatic&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Location :: Log My Global-Positioning-System Coordinates :: Automatically ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_LogGPS_Automatic.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;LogGPS_Manual&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Location :: Log My Global-Positioning-System Coordinates :: Manually ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_LogGPS_Manual.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A><BR><BR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Location</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;LogGPS_Automatic&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Location :: Log My Global-Positioning-System Coordinates :: Automatically ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_LogGPS_Automatic.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;LogGPS_Manual&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Location :: Log My Global-Positioning-System Coordinates :: Manually ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_LogGPS_Manual.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
 
-<B>Registered Member Account :: Options :: Messaging</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;Conversations&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Instant Messenger :: Private Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Private_Messages.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;MessengerOptions&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Instant Messenger :: Group Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Messenger.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;MessengerOptions&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Short Message Service :: Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Messenger_SMS.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;MessengerOptions&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Multimedia Message Service :: Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Messenger_MMS.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A><BR><BR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Messaging</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;Conversations&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Instant Messenger :: Private Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Private_Messages.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;MessengerOptions&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Instant Messenger :: Group Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Messenger.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;MessengerOptions&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Short Message Service :: Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Messenger_SMS.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;Display&#61;MessengerOptions&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Send & Receive :: Multimedia Message Service :: Messages ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Messages_Messenger_MMS.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
 
-<B>Registered Member Account :: Options :: Account Details</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Update_Account&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Update :: This Registered Member Account :: Profile Data ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Update.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A><BR><BR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Account Details</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Update_Account&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Update :: This Registered Member Account :: Profile Data ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Update.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
 
-<B>Registered Member Account :: Options :: Security</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authorizations&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Manage :: This Registered Member Account :: Authorizations ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Revoke_Authorization.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A><BR><BR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Security</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authorizations&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Manage :: This Registered Member Account :: Authorizations ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Revoke_Authorization.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A><BR><BR>
 
-<B>Registered Member Account :: Options :: Logs</B><BR>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Interaction_Log&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Log :: Activity and Interaction Log ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Log_Interaction.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>&nbsp;
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authentication_Log&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Log :: Authentication Log ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Log_Authentication.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>
-<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Location_Log&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Log :: Location Log ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Log_Location.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\"></IMG></A>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<B>Registered Member Account :: Options :: Logs</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Interaction_Log&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Log :: Activity and Interaction Log ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Log_Interaction.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>&nbsp;
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authentication_Log&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Log :: Authentication Log ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Log_Authentication.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>
+	<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Location_Log&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: This Registered Member Account :: Log :: Location Log ::\"><IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME_VIDEO_RESOLUTION/$_GLOBAL_SYSTEM_SETTINGS_DIRECTORY_THEME/Image/Icon_Member/Icon_Account_Log_Location.$_GLOBAL_SYSTEM_IMAGE_EXTENSION?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" HEIGHT=\"50\" WIDTH=\"50\" CLASS=\"AMMControlPanel\"></IMG></A>
 											
 											<HR>
 											<CENTER>[ <A HREF=\"?$_INTERNAL_APPLICATION_MODULE_INTERNAL&#61;Logout&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Logout :: Secure-Delete This Session, Credentials & Cookies ::\">Logout</A> ]</CENTER>
@@ -221,7 +237,7 @@ echo ("
 
 /*
  ============================================================================================================
- + Database Server Query :: Retrieve :: Registered Member Account Settings From The Database Server
+ + Database Management System Server :: Database :: Query :: Retrieve :: Registered Member Account Settings From The Database Server
  ============================================================================================================
 */
 
@@ -290,12 +306,14 @@ if (!$_Application_Module_Member_Control_Panel_POST_ACCOUNT_ACTIVATION_KEY) {
 if ($_Application_Module_Member_Control_Panel_LIST_MEMBER_STATUS_ACCOUNT_ACTIVATION <= 0) {
 
 echo ("
-											<BR><BR>$_Application_Module_Member_Message_Control_Panel_KEY_ACTIVATE<HR>
-												<FORM ACTION=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel\" METHOD=\"POST\">
-													Account Activation Key:<BR>
-														<INPUT TYPE=\"TEXT\" NAME=\"AMM_Control_Panel_Account_Activation_Key\" MAXLENGTH=\"32\"><BR>
-													<INPUT TYPE=\"SUBMIT\" VALUE=\"Activate\">
-												</FORM>
+											<BR><BR><HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+													$_Application_Module_Member_Message_Control_Panel_KEY_ACTIVATE
+												<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+													<FORM ACTION=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel\" METHOD=\"POST\">
+														Account Activation Key<BR>
+															<INPUT TYPE=\"TEXT\" NAME=\"AMM_Control_Panel_Account_Activation_Key\" MAXLENGTH=\"32\"><BR>
+														<INPUT TYPE=\"SUBMIT\" VALUE=\"Activate\">
+													</FORM>
 ");
 
 } // [ + ] IF: Registered Member Account :: IS NOT Activated
@@ -593,8 +611,9 @@ $_Application_Module_Member_Control_Panel_ARCHIVE_CREATE_ARCHIVE_INITIALIZE->clo
 if ($_GET["Display"] == "Authorizations") {
 
 echo ("
-<HR>
-<B>Registered Member Account Security Programming :: Device :: Authorization</B><BR>
+<BR><HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Registered Member Account Security Programming :: Device :: Authorization</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 Registered Member Account Authentication Authorization Security Programming Code provides the means to Authorize and Revoke Authentication Authorizations for Device details instantly if the System Settings for Restricted Device Authorizations Is: Disabled.<BR><BR>
 
 Internet Protocol Addresses usually cannot be spoofed, but if an attacker or a malicious hacker looking to gain access to your Registered Member Account here knows the Internet Protocol Address Location that you Authenticated into this Registered Member Account from they could physically go to that Location and Authenticate into your
@@ -651,15 +670,21 @@ it impossible for anyone else who should not have access to the Registered Membe
 Once after you have Successfully Authenticated into your Registered Member Account all that is needed is to Revoke the Authorizations for each Device Detail and or then Update the Password on the Registered Member Account to make it
 impossible for anyone else to Authenticate into this Registered Member Account.<BR><BR>
 
-<B>Current Settings :: System :: Security :: Restrictions :: Registered Member Account :: Authentication :: Authorizations :: Multi-Factor</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Current Settings :: System :: Security :: Restrictions :: Registered Member Account :: Authentication :: Authorizations :: Multi-Factor</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 * Registered Member Account :: Restriction :: Authentication :: Multi-Factor :: Internet Protocol Address: $_GLOBAL_SYSTEM_SETTING_ACCOUNT_SECURITY_DEVICE_AUTHENTICATION_MULTIFACTOR_IP<BR><BR>
 
-<B>Current Settings :: System :: Security :: Restrictions :: Registered Member Account :: Device :: Authorizations</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Current Settings :: System :: Security :: Restrictions :: Registered Member Account :: Device :: Authorizations</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 * Registered Member Account :: Restriction :: Device :: Authorization :: Internet Protocol Address: $_GLOBAL_SYSTEM_SETTING_ACCOUNT_SECURITY_RESTRICT_AUTHORIZED_INTERNET_PROTOCOL_ADDRESS<BR>
 * Registered Member Account :: Restriction :: Device :: Authorization :: MAC Address: $_GLOBAL_SYSTEM_SETTING_ACCOUNT_SECURITY_RESTRICT_AUTHORIZED_MAC_ADDRESS<BR>
 * Registered Member Account :: Restriction :: Device :: Authorization :: Web Browser: $_GLOBAL_SYSTEM_SETTING_ACCOUNT_SECURITY_RESTRICT_AUTHORIZED_WEB_BROWSER<BR><BR>
 
-<B>Current Details :: Device :: Live</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Current Details :: Device :: Live</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 
 * Device :: Internet Protocol Address<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_REMOTE_SERVER_ADDRESS :: Conecting Port Number :: $_GLOBAL_REMOTE_SERVER_PORT</TEXTAREA><BR><BR>
@@ -670,7 +695,9 @@ impossible for anyone else to Authenticate into this Registered Member Account.<
 * Device :: Web Browser :: User-Agent String<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_REMOTE_SERVER_HTTP_USER_AGENT</TEXTAREA><BR><BR>
 
-<B>Current Details :: Device :: From :: Database Management System Server :: Database Entry :: Registered Member Account</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Current Details :: Device :: From :: Database Management System Server :: Database Entry :: Registered Member Account</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 
 * Device :: Internet Protocol Address<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_MEMBER_IP_ADDRESS_CURRENT</TEXTAREA><BR><BR>
@@ -681,7 +708,9 @@ impossible for anyone else to Authenticate into this Registered Member Account.<
 * Device :: Web Browser :: User-Agent String<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_MEMBER_ACCOUNT_DEVICE_WEB_BROWSER</TEXTAREA><BR><BR>
 
-<B>Device Details :: From Registered Member Account :: Database Entry :: Authentication :: Multi-Factor :: Authorized</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Device Details :: From Registered Member Account :: Database Entry :: Authentication :: Multi-Factor :: Authorized</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 
 * Device :: Internet Protocol Address<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_MEMBER_IP_ADDRESS_AUTHORIZED_MULTIFACTOR</TEXTAREA><BR><BR>
@@ -689,7 +718,9 @@ impossible for anyone else to Authenticate into this Registered Member Account.<
 * Security Token<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_MEMBER_AUTHENTICATION_AUTHORIZATION_SECURITY_TOKEN</TEXTAREA><BR><BR>
 
-<B>Device Details :: From Registered Member Account :: Database Entry :: Authorized</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Device Details :: From Registered Member Account :: Database Entry :: Authorized</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 
 * Device :: Internet Protocol Address<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_MEMBER_IP_ADDRESS_AUTHORIZED</TEXTAREA><BR><BR>
@@ -700,7 +731,9 @@ impossible for anyone else to Authenticate into this Registered Member Account.<
 * Device :: Web Browser :: User-Agent String<BR>
 <TEXTAREA ROWS=\"5\" COLS=\"25\" MAXLENGTH=\"1000\">$_GLOBAL_MEMBER_ACCOUNT_DEVICE_WEB_BROWSER_AUTHORIZED</TEXTAREA><BR><BR>
 
-<B>Digital Fingerprints :: Registered Member Account</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Digital Fingerprints :: Registered Member Account</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 Digital Fingerprint :: Generated :: Random :: Clear-Text:<BR>
 $_INTERNAL_SECURITY_GENERATED_MEMBER_FINGERPRINT_CLEARTEXT<BR><BR>
 
@@ -716,11 +749,15 @@ $_GLOBAL_MEMBER_SECURITY_FINGERPRINT_HASHED<BR><BR>
 Digital Fingerprint :: Cookie :: HASHED:<BR>
 $_GLOBAL_COOKIE_MEMBER_SECURITY_FINGERPRINT<BR><BR>
 
-<B>Revoke Current :: Registered Member Account :: Authentication :: Multi-Factor</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Revoke Current :: Registered Member Account :: Authentication :: Multi-Factor</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 * <A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authorizations&amp;Revoke&#61;MultiFactor_IP\" TITLE=\":: Revoke :: Authentication :: Device :: Authorization :: Internet Protocol Address ::\">Revoke Current :: Registered Member Account :: Authentication :: Multi-Factor :: Authorization :: Internet Protocol Address</A><BR>
 * <A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authorizations&amp;Revoke&#61;SecurityToken\" TITLE=\":: Revoke :: Authentication :: Device :: Authorization :: Security Token ::\">Revoke Current :: Registered Member Account :: Authentication :: Multi-Factor :: Authorization :: Security Token</A><BR><BR>
 
-<B>Revoke Current :: Registered Member Account :: Device :: Authorizations</B><HR>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
+<B>Revoke Current :: Registered Member Account :: Device :: Authorizations</B>
+<HR ALIGN=\"LEFT\" WIDTH=\"50%\">
 * <A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authorizations&amp;Revoke&#61;IP\" TITLE=\":: Revoke Current :: Registered Member Account :: Device :: Authorization :: Internet Protocol Address ::\">Revoke Current :: Registered Member Account :: Device :: Authorized :: Internet Protocol Address</A><BR>
 * <A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authorizations&amp;Revoke&#61;MAC_Address\" TITLE=\":: Revoke Current :: Registered Member Account :: Device :: Authorization :: MAC Address ::\">Revoke Current :: Registered Member Account :: Device :: Authorized :: MAC Address</A><BR>
 * <A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Control_Panel&amp;Display&#61;Authorizations&amp;Revoke&#61;Web_Browser\" TITLE=\":: Revoke Current :: Registered Member Account :: Device :: Authorization :: Web Browser ::\">Revoke Current :: Registered Member Account :: Device :: Authorized :: Web Browser</A><BR><BR>
@@ -1008,7 +1045,7 @@ if ($_GET["Display"] == "Location_Log") {
 if (file_exists("$_Application_Module_Member_Control_Panel_CONTENTS_LOG_FILE_LOCATION_GPS_HTML_LOG")) {
 
 echo ("
-		<HR><BR><BR>
+		<BR><BR>
 		<HR WIDTH=\"50%\" ALIGN=\"LEFT\">
 		Registered Member Account :: Log :: Location :: Global-Positioning-System Coordinates :: Manually Inserted :: Retrieved: $_GLOBAL_LOCAL_SERVER_DATE_STANDARD<BR>
 		<HR WIDTH=\"50%\" ALIGN=\"LEFT\">

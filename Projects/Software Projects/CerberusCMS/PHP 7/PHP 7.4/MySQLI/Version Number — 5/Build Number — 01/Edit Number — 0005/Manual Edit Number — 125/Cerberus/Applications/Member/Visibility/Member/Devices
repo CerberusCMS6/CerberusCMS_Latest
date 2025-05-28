@@ -188,7 +188,7 @@ getLocation();
  + IF: Internal Application: Device Test :: Global-Positioning-System Coordinates :: Chip :: Input Form :: Variables HAVE Executed, Display: G.P.S. Chip Location
  ============================================================================================================
 */
- 
+
 if (isset($_POST['submit'])) {
 
 $_Application_Module_Member_Devices_POST_DEVICE_TEST_GPS_CHIP_LATITUDE					= $_POST['latitude'];
