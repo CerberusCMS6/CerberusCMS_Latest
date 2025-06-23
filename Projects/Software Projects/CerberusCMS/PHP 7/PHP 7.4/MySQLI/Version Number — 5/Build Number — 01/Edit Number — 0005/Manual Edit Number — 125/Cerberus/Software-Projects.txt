@@ -1,29 +1,48 @@
-		⢀⣴⣿⣿⡟⠋⢻⣷⣄⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣾⣿⣷⣿⣿⣿⣿⣿⣶⣾⣿⣿⠿⠿⠿⠶⠄⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠉⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⠟⠻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣆⣤⠿⢶⣦⡀⠀⠀⠀            G.C.'s Blue Raven, S.P. and Software⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠑⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠸⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠋⠉⠉ 			Free and Open Source Software
-			- 100% Free, Original, Clean and Quality Software Projects -
+﻿                             .-.							   
+                            {{@}}							   
+                             8@8							   
+                             888							   
+                             8@8							   
+                         _   )8(    _							   
+                       (@)__/8@8\__(@)							   
+   ____________________ `~"-=):(=-"~`							   
+  |<><><>  |  |  <><><>|     |.|							   
+  |<>      |  |      <>|     | |							   
+  |<>      |  |      <>|     |'|							   
+  |<>   .--------.   <>|     |.|							   
+  |     |   ()   |     |     | |							   
+  |_____| (O\/O) |_____|     |'|							   
+  |     \   /\   /     |     |.|							   
+  |------\  \/  /------|     | |							   
+  |       '.__.'       |     |'|							   
+  |        |  |        |     |.|							   
+  :        |  |        :     | |							   
+   \<>     |  |     <>/      |'|							   
+    \<>    |  |    <>/       |.|							   
+     \<>   |  |   <>/        | |							   
+      `\<> |  | <>/'         |'|							   
+        `-.|  |.-`           \ /							   
+           '--'               ^		⠀⠀⠀            
+                                     G.C.'s Immolated Sword, Feather and Stone Software
+                                               Free and Open Source Software
+			        - 100% Free, Original, Clean and Quality Software Projects -
+    (`/\
+    `=\/\
+     `=\/\
+      `=\/
+         \     ()
 
-G.C.'s Blue Raven, S.P. and Software is a Free and Open Source Software Organization that is named after the Blue Raven, a symbol of complete freedom and
-security from darkness where when the Eagle is not.
+G.C.'s Immolated Sword, Feather and Stone Software is a Free and Open Source Software Organization.
 
 This Free and Open Source Software Organization stores, maintains, develops and dispenses Free and Open Source Software Projects owned by this organization.
-This Free and Open Source Software Organization was digitally registered in Rosedale, California, United States of America in 2025 by Gary Christopher Johnson.
+This Free and Open Source Software Organization was digitally registered in Rosedale, California, United States of America in 2025 by Gary Christopher Edwards Johnson.
 
 Official Web Servers
 * https://www.CerberusCMS.com
 
 Official Electronic Mail Addresses
+* ImmolatedSword@Protonmail.com
+* OfficialCCMS@Protonmail.com
 * CerberusCMS6@Protonmail.com
 
 Official GIT Software Project Hosting
@@ -32,15 +51,22 @@ Official GIT Software Project Hosting
 * https://www.LaunchPad.net/CerberusCMS6
 
 Official Software Project Hosting
-https://www.SourceForge.net/u/cerberuscms6/profile/
+* https://www.SourceForge.net/u/cerberuscms6/profile/
 
-Official Social Media Accounts
-CerberusCMS6 @ Instagram
-CerberusCMS6 @ Twitter
-CerberusCMS6 @ FaceBook
-CerberusCMS6 @ PhotoBucket
+Official Social Media Accounts :: CerberusCMS 6
+* CerberusCMS6 @ Instagram
+* CerberusCMS6 @ Twitter
+* CerberusCMS6 @ FaceBook
+* CerberusCMS6 @ PhotoBucket
+* CerberusCMS6 @ YouTube
 
-- G.C.'s Blue Raven, S.P. and Software's Official Free and Open Source Software Projects -
+Official Social Media Accounts :: Immolated Sword, Feather and Stone Software
+* https://www.YouTube.com/@ImmolatedSword/playlists
+* https://www.Twitter.com/ImmolatedSword
+* https://www.InstaGram.com/ImmolatedSword
+* https://www.FaceBook.com/ImmolatedSword
+
+- G.C.'s Immolated Sword, Feather and Stone Software Projects -
 
   _____        __                      _____          __           __    __  ___                                       __    ____         __          
  / ___/__ ____/ /  ___ ______ _____   / ___/__  ___  / /____ ___  / /_  /  |/  /__ ____  ___ ____ ____ __ _  ___ ___  / /_  / __/_ _____ / /____ __ _ 
