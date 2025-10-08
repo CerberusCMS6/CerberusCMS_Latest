@@ -1,3 +1,0 @@
-php_flag output_buffering on
-php_flag output_buffering true
-php_flag output_buffering 1
