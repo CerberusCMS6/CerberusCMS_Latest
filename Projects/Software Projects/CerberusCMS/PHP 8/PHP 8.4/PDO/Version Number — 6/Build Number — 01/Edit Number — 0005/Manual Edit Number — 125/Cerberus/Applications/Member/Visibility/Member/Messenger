@@ -1777,6 +1777,17 @@ echo ("
 
 echo ("
 
+													<FORM ACTION=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;DeleteMessengerRoom&#61;$_Application_Module_Member_Messenger_SQL_LIST_MESSENGER_CLEAR_TEXT_FILE_MESSENGER_ROOM_NAME&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" METHOD=\"POST\">
+														* <I>Ban Account</I><BR>
+														<I>Administration Accounts: Type The Word: Delete - In Order To Delete This Messenger Room</I>:<BR>
+														[ Maximum Length: 100 Alpha-Numeric Characters ]<BR>
+														<INPUT TYPE=\"text\" NAME=\"AMM_Messenger_Delete_Clear_Text_File_Messenger_Room_Password\" VALUE=\"Delete\" MAXLENGTH=\"50\"><BR>
+														<INPUT TYPE=\"hidden\" NAME=\"AMM_Messenger_Delete_Clear_Text_File_Messenger_Room_Name_Hidden\" VALUE=\"$_Application_Module_Member_Messenger_SQL_LIST_MESSENGER_CLEAR_TEXT_FILE_MESSENGER_ROOM_NAME\">
+														<INPUT TYPE=\"submit\" VALUE=\"Delete Messenger Room\">
+													</FORM><BR><BR>
+
+echo ("
+
 													<FORM ACTION=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Messenger&amp;EraseMessengerRoom&#61;$_Application_Module_Member_Messenger_SQL_LIST_MESSENGER_CLEAR_TEXT_FILE_MESSENGER_ROOM_NAME&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" METHOD=\"POST\">
 														* <I>Erase This Visible Clear-Text File Messenger Room</I><BR>
 														<I>Maintenance Password</I>:<BR>
